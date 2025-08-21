@@ -10,3 +10,8 @@ The project files are organized into three main components: index.html for the s
 Through this project, I strengthened my understanding of how HTML, CSS, and JavaScript work together to create interactive web experiences. Even with basic tools, it’s possible to make interfaces that are fun, expressive, and user-friendly.
 
 You can explore the project further by checking the GitHub repository for source code and the Netlify live demo link for a quick preview in the browser. This small project is a step forward in my journey of completing 15 projects and becoming more confident in frontend development.
+
+## Live Demo  
+click here to get live demo
+(tic-tac-toe-game-dhanu.netlify.app)
+
